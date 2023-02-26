@@ -23,3 +23,29 @@ plt.bar(times_of_day, productivity_levels)
 plt.xlabel("Time of day (hours)")
 plt.ylabel("Productivity level (1-5)")
 plt.show()
+'''terminal will look like this--
+Enter your productivity level (1-5): 3
+Enter the time of day (in hours): 8
+Enter your productivity level (1-5): 2
+Enter the time of day (in hours): 9
+Enter your productivity level (1-5): 4
+Enter the time of day (in hours): 11
+Enter your productivity level (1-5): 1
+Enter the time of day (in hours): 12
+Enter your productivity level (1-5): 0
+Enter the time of day (in hours): 1
+Enter your productivity level (1-5): 2
+Enter the time of day (in hours): 2
+Enter your productivity level (1-5): 4
+Enter the time of day (in hours): 4
+Enter your productivity level (1-5): 5
+Enter the time of day (in hours): 5
+Enter your productivity level (1-5): 1
+Enter the time of day (in hours): 6
+Enter your productivity level (1-5): 4
+Enter the time of day (in hours): 7
+Enter your productivity level (1-5): 2
+Enter the time of day (in hours): 8
+Enter your productivity level (1-5): 1
+Enter the time of day (in hours): 9
+Enter your productivity level (1-5): done'''
